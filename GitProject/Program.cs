@@ -4,7 +4,7 @@ namespace GitProject
 {
     internal class Program
     {
-        int count = 10;
+        int count = 1000;
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
